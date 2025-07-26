@@ -25,7 +25,7 @@ class Settings:
     CACHE_PATH = "data/cache"
     
     # Chunking Configuration
-    CHUNK_SIZE = 450
+    CHUNK_SIZE = 1000
     CHUNK_OVERLAP = 150
     
     # Retrieval Configuration
