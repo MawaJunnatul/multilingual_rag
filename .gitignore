@@ -1,0 +1,8 @@
+
+venv
+data/cache
+data/processed
+data/vectorstore
+src/__pycache__
+.env
+reports
